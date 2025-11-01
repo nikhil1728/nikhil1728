@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://files.selar.co/product-images/2023/products/d-invicta-digital-academy1/data-analytics-full-cours-selar.co-64bf58f264d3c.png)"  />
+  <img height="150" src="https://files.selar.co/product-images/2023/products/d-invicta-digital-academy1/data-analytics-full-cours-selar.co-64bf58f264d3c.png"  />
 </div>
 
 ###
