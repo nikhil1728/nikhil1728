@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://online.uc.edu/wp-content/uploads/2022/01/People-GIS-ing-1-1536x957.jpg"  />
+  <img height="400" src="https://online.uc.edu/wp-content/uploads/2022/01/People-GIS-ing-1-1536x957.jpg"  />
 </div>
 
 ###
