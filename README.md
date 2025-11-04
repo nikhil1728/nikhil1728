@@ -45,6 +45,19 @@ I’m a <b>Power BI Developer / Data Analyst</b> with over <b>3.5 years of exper
 
 ###
 
+<h3 align="left">🏅 Certifications</h3>
+
+<p align="center">
+  <a href="https://learn.microsoft.com/en-us/users/nikhilsomisetty-3672/credentials/8efbb93823830e37" target="_blank">
+    <img src="PL-300.png" height="180" alt="Microsoft Certified Power BI Data Analyst (PL-300)" />
+  </a>
+  <img src="EDA Fundamentals Certificate.png" height="180" alt="EDA Fundamentals" />
+  <img src="Python Libraries Certificate.png" height="180" alt="Python Libraries" />
+  <img src="SQL Certifcate.png" height="180" alt="SQL Certification" />
+</p>
+
+###
+
 <h3 align="left">🛠 Languages and Tools</h3>
 
 <div align="left">
@@ -68,7 +81,7 @@ I’m a <b>Power BI Developer / Data Analyst</b> with over <b>3.5 years of exper
 
 <h3 align="left">📊 Personal Projects</h3>
 
-<table>
+<table align="center">
   <tr>
     <th>Project Name</th>
     <th>Description</th>
@@ -90,16 +103,6 @@ I’m a <b>Power BI Developer / Data Analyst</b> with over <b>3.5 years of exper
     <td><a href="https://github.com/nikhil1728/Indian-Ecycle-Demand" target="_blank">🔗 View Project</a></td>
   </tr>
 </table>
-
-###
-
-<h3 align="left">🏅 Certifications</h3>
-
-<ul>
-  <li>🎓 <b>Microsoft Certified: Power BI Data Analyst (PL-300)</b> – 2025</li>
-  <li>📜 <b>Scaler Data Science & Machine Learning</b> – 2024</li>
-  <li>💻 <b>SQL & EDA Fundamentals</b> – 2024</li>
-</ul>
 
 ###
 
