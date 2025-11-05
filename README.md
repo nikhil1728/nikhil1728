@@ -37,7 +37,7 @@
 <p align="left">
 I’m a <b>Power BI Developer / Data Analyst</b> with over <b>3.5 years of experience</b> in designing and developing interactive dashboards, paginated reports, and automated workflows that empower data-driven decision-making.<br><br>
 - 🔭 I’m currently working at <b>Tata Consultancy Services</b> as a <b>Data Analyst</b><br>
-- 📚 I'm skilled in <b>Power BI, SQL, Python (Pandas, NumPy, Matplotlib, Seaborn), and ETL pipelines (Informatica)</b><br>
+- 📚 I'm skilled in <b>Power BI, SQL, Python (Pandas, NumPy, Matplotlib, Seaborn, Scipy - Hypothesis Testing), and ETL pipelines (Informatica)</b><br>
 - ☁️ I’ve worked with <b>AWS</b> and <b>Google BigQuery</b> for cloud data solutions<br>
 - ⚙️ Experienced in <b>Agile</b> methodology and data governance (RLS, Power BI Service)<br>
 - ⚡ In my free time, I explore <b>data visualization trends, automation workflows</b>, and experiment with <b>Python analytics scripts</b><br>
