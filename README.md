@@ -17,7 +17,6 @@
   <img 
     src="https://www.springboard.com/blog/wp-content/uploads/2021/05/useful-data-analysis-methods-to-use-on-your-next-project-scaled.jpeg"
     width="100%"
-    height="400"
     style="object-fit: cover;"
   />
 </div>
