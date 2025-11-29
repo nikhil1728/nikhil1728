@@ -6,6 +6,7 @@
 
 <h3 align="center">💡 Data Analyst | Python Enthusiast</h3>
 <div align="center">
+https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&pause=1100&color=22C55E&center=true&vCenter=true&width=750&lines=Data+Analyst+in+Action;SQL+%7C+Python+%7C+Power+BI;From+Raw+Data+to+Insights
   <img 
     src="https://www.springboard.com/blog/wp-content/uploads/2021/05/useful-data-analysis-methods-to-use-on-your-next-project-scaled.jpeg"
     width="100%"
