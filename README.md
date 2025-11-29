@@ -4,7 +4,7 @@
 
 ###
 
-<p align="center" style="margin-bottom: 4px;">
+<p align="center" style="margin-bottom: 2px;">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Segoe+UI&pause=400&color=22C55E&center=true&width=750&lines=Data+Analyst+in+Action" 
     alt="Data Analyst in Action"
