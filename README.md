@@ -1,5 +1,8 @@
 <div align="center">
-  <img height="300" src="https://www.springboard.com/blog/wp-content/uploads/2021/05/useful-data-analysis-methods-to-use-on-your-next-project-scaled.jpeg" />
+  <img 
+    src="https://www.springboard.com/blog/wp-content/uploads/2021/05/useful-data-analysis-methods-to-use-on-your-next-project-scaled.jpeg"
+    width="100%"
+  />
 </div>
 
 ###
