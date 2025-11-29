@@ -66,7 +66,7 @@ I’m a <b>Power BI Developer / Data Analyst</b> with over <b>3.5 years of exper
   <tr>
     <td><b>EV Market Demand Analysis</b></td>
     <td>Analyzed Indian electric vehicle sales to forecast demand, optimize delivery routes using Python Libraries and hypothesis testing techniques.</td>
-    <td><a href="https://github.com/nikhil1728/EVAnalysis/blob/main/EVAnalysis.ipynb">View Project</a></td>
+    <td><a href="https://github.com/nikhil1728/EVAnalysis/blob/main/README.md">View Project</a></td>
   </tr>
 </table>
 
