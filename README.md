@@ -4,13 +4,16 @@
 
 ###
 
-<p align="center">
+<p align="center" style="margin-bottom: 4px;">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Segoe+UI&pause=1100&color=4169E1&center=true&vCenter=true&width=750&lines=Data+Analyst+in+Action" 
+    src="https://readme-typing-svg.demolab.com?font=Segoe+UI&pause=600&color=22C55E&center=true&width=750&lines=Data+Analyst+in+Action" 
     alt="Data Analyst in Action"
-/>
+  />
 </p>
-<h3 align="center">💡 Python | SQL | Power BI </h3>
+
+<h3 align="center" style="margin-top: 4px;">
+  💡 Python | SQL | Power BI
+</h3>
 
 </p>
   <img 
