@@ -10,7 +10,6 @@
     alt="Data Analyst in Action"
 />
 </p>
-
 <h3 align="center">💡 Python | SQL | Power BI </h3>
 
 </p>
