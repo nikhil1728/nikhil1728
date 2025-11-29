@@ -55,7 +55,7 @@ I’m a <b>Power BI Developer / Data Analyst</b> with over <b>3.5 years of exper
   </tr>
   <tr>
     <td><b>OTT Data Analysis</b></td>
-    <td>Analyzed OTT platform dataset to uncover viewer patterns and genre preferences using Python and Power BI.</td>
+    <td>Analyzed OTT platform dataset to uncover viewer patterns and genre preferences using Python libraries.</td>
     <td><a href="https://github.com/nikhil1728/OTT_Analysis/blob/main/OTT_Analysis.ipynb">View Project</a></td>
   </tr>
   <tr>
@@ -65,13 +65,8 @@ I’m a <b>Power BI Developer / Data Analyst</b> with over <b>3.5 years of exper
   </tr>
   <tr>
     <td><b>EV Market Demand Analysis</b></td>
-    <td>Analyzed Indian electric vehicle sales to forecast demand, optimize delivery routes, and visualize KPIs in Power BI.</td>
+    <td>Analyzed Indian electric vehicle sales to forecast demand, optimize delivery routes using Python Libraries and hypothesis testing techniques.</td>
     <td><a href="https://github.com/nikhil1728/EVAnalysis/blob/main/EVAnalysis.ipynb">View Project</a></td>
-  </tr>
-  <tr>
-    <td><b>Fitness Equipment Analysis</b></td>
-    <td>Studied sales and seasonal demand of fitness equipment using SQL and Power BI dashboards.</td>
-    <td><a href="https://github.com/nikhil1728/FitnessEquipment/blob/main/FitnessEquipment.ipynb">View Project</a></td>
   </tr>
 </table>
 
