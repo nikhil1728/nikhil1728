@@ -36,12 +36,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=nikhil1728.nikhil1728&" />
-</div>
-
-
-
 ###
 
 <h3 align="left">👩‍💻 About Me</h3>
