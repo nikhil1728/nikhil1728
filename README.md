@@ -56,7 +56,7 @@ I’m a <b>Power BI Developer / Data Analyst</b> with over <b>3.5 years of exper
   <tr>
     <td><b>OTT Data Analysis</b></td>
     <td>Analyzed OTT platform dataset to uncover viewer patterns and genre preferences using Python libraries.</td>
-    <td><a href="https://colab.research.google.com/github/nikhil1728/OTT_Analysis/blob/main/OTT_Analysis.ipynb">View Project</a></td>
+    <td><a href="https://github.com/nikhil1728/OTT_Analysis/blob/main/README.md">View Project</a></td>
   </tr>
   <tr>
     <td><b>Brazilian E-Commerce Analysis</b></td>
