@@ -7,7 +7,7 @@
 <p align="center">
   
   ![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&pause=1100&color=0B1C2D&center=true&vCenter=true&width=750&lines=Data+Analyst+in+Action)
-
+</p>
   <h3 align="center">💡 Python |  SQL | Power BI </h3>
 <div align="center">
 <p align="center">
