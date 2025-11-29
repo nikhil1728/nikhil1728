@@ -4,7 +4,7 @@
 
 ###
 
-<h3 align="center">💡 Power BI Developer | Data Analyst | Python Enthusiast</h3>
+<h3 align="center">💡 Data Analyst | Python Enthusiast</h3>
 <div align="center">
   <img 
     src="https://www.springboard.com/blog/wp-content/uploads/2021/05/useful-data-analysis-methods-to-use-on-your-next-project-scaled.jpeg"
