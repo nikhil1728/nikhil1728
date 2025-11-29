@@ -5,12 +5,13 @@
 ###
 
 <p align="center">
-  
-      ![Typing SVG](https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&pause=1100&color=0B1C2D&center=true&vCenter=true&width=750&lines=Data+Analyst+in+Action)
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Segoe+UI&pause=1100&color=4169E1&center=true&vCenter=true&width=750&lines=Data+Analyst+in+Action" 
+    alt="Data Analyst in Action"
+/>
 </p>
-  <h3 align="center">💡 Python |  SQL | Power BI </h3>
-<div align="center">
-<p align="center">
+
+<h3 align="center">💡 Python | SQL | Power BI </h3>
 
 </p>
   <img 
