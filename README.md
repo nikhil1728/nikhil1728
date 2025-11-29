@@ -80,27 +80,35 @@ I’m a <b>Power BI Developer / Data Analyst</b> with over <b>3.5 years of exper
 ###
 
 <h3 align="left">📁 Personal Projects</h3>
-
 <table>
   <tr>
     <th>Project Name</th>
     <th>Description</th>
     <th>Link</th>
   </tr>
-   <tr>
+
+  <tr>
     <td><b>Brazilian E-Commerce Analysis</b></td>
-    <td>Used BigQuery and Python to identify sales trends, customer insights, and delivery performance improvements.</td>
+    <td>
+      Analyzed large-scale e-commerce data using BigQuery and Python to uncover sales trends, customer behavior, delivery delays, and payment patterns (EDA, time-based analysis).
+    </td>
     <td><a href="https://github.com/nikhil1728/E-Commerce/blob/main/README.md">View Project</a></td>
   </tr>
+
   <tr>
     <td><b>OTT Data Analysis</b></td>
-    <td>Analyzed OTT platform dataset to uncover viewer patterns and genre preferences using Python and Power BI.</td>
+    <td>
+      Performed exploratory data analysis on OTT platform data to identify content trends, genre preferences, and release patterns using Python libraries and data visualization techniques.
+    </td>
     <td><a href="https://github.com/nikhil1728/OTT_Analysis/blob/main/README.md">View Project</a></td>
   </tr> 
+
   <tr>
     <td><b>EV Market Demand Analysis</b></td>
-    <td>Analyzed Indian electric vehicle sales to forecast demand, optimize delivery routes, and visualize KPIs in Power BI.</td>
+    <td>
+      Analyzed Indian EV sales data to study demand trends, seasonal patterns, and growth insights using Python, data visualization techniques and hypothesis-driven analysis.
+    </td>
     <td><a href="https://github.com/nikhil1728/EVAnalysis/blob/main/README.md">View Project</a></td>
   </tr>
-  
+</table>
 
