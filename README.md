@@ -1,8 +1,26 @@
-<div align="center">
-  <img height="400" src="https://online.uc.edu/wp-content/uploads/2022/01/People-GIS-ing-1-1536x957.jpg" />
-</div>
 
 ###
+
+<h1 align="center">Hey there 👋, I'm Nikhil Somisetty</h1>
+
+###
+
+<h2 align="center" style="margin-bottom: 4px; font-weight: 700; color: #22C55E;">
+  Data Analyst in Action
+</h2>
+
+<p align="center" style="margin-top: 0;">
+  💡 <strong>Python | SQL | Power BI</strong>
+</p>
+
+<div align="center">
+  <img 
+    src="https://www.springboard.com/blog/wp-content/uploads/2021/05/useful-data-analysis-methods-to-use-on-your-next-project-scaled.jpeg"
+    width="100%"
+    height="400"
+    style="object-fit: cover;"
+  />
+</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/nikhil-somisetty-08b805180/" target="_blank">
@@ -15,20 +33,6 @@
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="github logo" />
   </a>
 </div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=nikhil1728.nikhil1728&" />
-</div>
-
-###
-
-<h1 align="center">Hey there 👋, I'm Nikhil Somisetty</h1>
-
-###
-
-<h3 align="center">💡 Power BI Developer | Data Analyst | Python Enthusiast</h3>
 
 ###
 
