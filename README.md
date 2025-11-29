@@ -48,6 +48,37 @@ I’m a <b>Power BI Developer / Data Analyst</b> with over <b>3.5 years of exper
 
 ###
 
+<h3 align="left">🏆 Certifications</h3>
+
+- 🟡 <b>Microsoft Certified: Power BI Data Analyst Associate (PL-300)</b> — <a href="https://learn.microsoft.com/en-us/users/nikhilsomisetty-3672/credentials/8efbb93823830e37">View Credential</a>  
+- 🔵 <b>EDA Fundamentals</b> — Scaler  
+- 🔵 <b>Python Libraries</b> — Scaler  
+- 🔵 <b>SQL</b> — Scaler  
+
+###
+
+<h3 align="left">🛠 Languages and Tools</h3>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="40" alt="pandas logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" height="40" alt="numpy logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="powerbi logo" />
+  <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="40" alt="tableau logo" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="40" alt="aws logo" />
+  <img width="12" />
+</div>
+
+
+###
+
 <h3 align="left">📁 Personal Projects</h3>
 
 <table>
@@ -78,32 +109,3 @@ I’m a <b>Power BI Developer / Data Analyst</b> with over <b>3.5 years of exper
   </tr>
 </table>
 
-###
-
-<h3 align="left">🏆 Certifications</h3>
-
-- 🟡 <b>Microsoft Certified: Power BI Data Analyst Associate (PL-300)</b> — <a href="https://learn.microsoft.com/en-us/users/nikhilsomisetty-3672/credentials/8efbb93823830e37">View Credential</a>  
-- 🔵 <b>EDA Fundamentals</b> — Scaler  
-- 🔵 <b>Python Libraries</b> — Scaler  
-- 🔵 <b>SQL</b> — Scaler  
-
-###
-
-<h3 align="left">🛠 Languages and Tools</h3>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="40" alt="pandas logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" height="40" alt="numpy logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" height="40" alt="powerbi logo" />
-  <img width="12" />
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" height="40" alt="tableau logo" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="40" alt="aws logo" />
-  <img width="12" />
-</div>
