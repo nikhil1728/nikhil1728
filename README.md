@@ -1,3 +1,10 @@
+###
+
+<h1 align="center">Hey there 👋, I'm Nikhil Somisetty</h1>
+
+###
+
+<h3 align="center">💡 Power BI Developer | Data Analyst | Python Enthusiast</h3>
 <div align="center">
   <img 
     src="https://www.springboard.com/blog/wp-content/uploads/2021/05/useful-data-analysis-methods-to-use-on-your-next-project-scaled.jpeg"
@@ -25,13 +32,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=nikhil1728.nikhil1728&" />
 </div>
 
-###
 
-<h1 align="center">Hey there 👋, I'm Nikhil Somisetty</h1>
-
-###
-
-<h3 align="center">💡 Power BI Developer | Data Analyst | Python Enthusiast</h3>
 
 ###
 
